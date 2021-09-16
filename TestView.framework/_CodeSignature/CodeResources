@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Assets.car</key>
-		<data>
-		nq39lVgZsEDF9K63M/PkCKmXStk=
-		</data>
 		<key>Headers/TestView.h</key>
 		<data>
 		NFhiIY3SAJrjYVACOwAUxgNxk0o=
@@ -24,16 +20,30 @@
 		<data>
 		fNyc7B2whl8iyhQHkGi6td3cOrg=
 		</data>
+		<key>SDK.bundle/Root.plist</key>
+		<data>
+		jOhqEUF1/xyY+fuswiWT+ELC3dI=
+		</data>
+		<key>SDK.bundle/bg.jpeg</key>
+		<data>
+		gtcj8k6KS6BpJ1i80dzRTlv2Na0=
+		</data>
+		<key>SDK.bundle/bg2.jpeg</key>
+		<data>
+		7oAXiDkj8MISE5oNaiMFNCDmhWI=
+		</data>
+		<key>SDK.bundle/en.lproj/Root.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uw5xxCjn0CUE5y84qjY0PUECH7PRdK5DshT1rH8IiNM=
-			</data>
-		</dict>
 		<key>Headers/TestView.h</key>
 		<dict>
 			<key>hash2</key>
@@ -54,6 +64,36 @@
 			<data>
 			vnYYZhsL7XzlLzJ4zSQtaP+mfiFz1HhNBGW381jZrIQ=
 			</data>
+		</dict>
+		<key>SDK.bundle/Root.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m26DmegPkB5jwUJkVEtLlObYALX8He100Ny0+NNJg/g=
+			</data>
+		</dict>
+		<key>SDK.bundle/bg.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XRVg9fut90wITowiNB9IHwyJHmMc6IbO6Az2X/erVgs=
+			</data>
+		</dict>
+		<key>SDK.bundle/bg2.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			olKgcXilKxXXmh+up3z4/hLILWQPSIkIuYEoMGBVAKY=
+			</data>
+		</dict>
+		<key>SDK.bundle/en.lproj/Root.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xUzNd7J7w99oAnMIWGe1dAGArHMuEXwQqxSziDU5vLk=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
